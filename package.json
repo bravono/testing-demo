@@ -14,7 +14,7 @@
     "testURL": "http://localhost/"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
